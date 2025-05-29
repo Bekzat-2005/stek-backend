@@ -65,5 +65,6 @@ Authorization: Bearer <your-token>
 
 ## 👥 Участники
 
-- [@nurik-zh](https://github.com/nurik-zh)
-- [@bekzat](https://github.com/YOUR_GITHUB_USERNAME)  <!-- Замени на свой GitHub логин -->
+- [@Nursultan](https://github.com/nurik-zh)
+- [@bekzat]([https://github.com/Bekzat-2005)
+- [@Nurbol](https://github.com/Nurbol05)
